@@ -13,6 +13,11 @@
 					redirect('members/home/userchecked');
 				}
 			}
+			
+			
+			
+			
+			
 			function index(){
 				$this->load->view('admin/admin');
 				
